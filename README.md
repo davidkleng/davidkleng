@@ -2,7 +2,7 @@
   <a href="https://davidkleng.com.ar"><img src="images/banner.jpg" alt="Header"></a>
 
 ### Hi, I'm David!
-I'm in electronics and programming. Also, i'm an Electronics Engineering student.
+I'm in electronics and programming. Also, i'm an Electronics Engineer.
 
 You can see my <a href="https://davidkleng.com.ar">Website</a>
 or my <a href="https://www.linkedin.com/in/davidkleng/">Linkedin</a>
